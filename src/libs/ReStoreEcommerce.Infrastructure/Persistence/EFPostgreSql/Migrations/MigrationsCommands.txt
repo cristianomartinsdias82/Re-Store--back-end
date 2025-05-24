@@ -1,0 +1,10 @@
+﻿Support url:
+https://learn.microsoft.com/en-us/ef/core/cli/dotnet
+
+dotnet ef migrations add [the-migration-name] -o Persistence/EFPostgreSql/Migrations [ENTER]
+
+dotnet ef migrations remove [ENTER]
+
+dotnet ef database update
+
+dotnet ef dbcontext script [-o script.sql]
