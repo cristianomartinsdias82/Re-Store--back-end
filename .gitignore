@@ -105,3 +105,10 @@
 /src/libs/ReStoreEcommerce.Shared/obj/ReStoreEcommerce.Shared.csproj.nuget.dgspec.json
 /src/libs/ReStoreEcommerce.Shared/obj/ReStoreEcommerce.Shared.csproj.nuget.g.props
 /src/libs/ReStoreEcommerce.Shared/obj/ReStoreEcommerce.Shared.csproj.nuget.g.targets
+/src/hosts/ReStoreApi/obj/project.nuget.cache
+/src/libs/ReStoreEcommerce.Application/obj/project.nuget.cache
+/src/libs/ReStoreEcommerce.Domain/obj/project.nuget.cache
+/src/libs/ReStoreEcommerce.Infrastructure/obj/project.nuget.cache
+/src/libs/ReStoreEcommerce.Shared/obj/project.nuget.cache
+/.vs/ReStoreEcommerce/FileContentIndex/4d4a22e9-ba30-49b8-8d0f-8c95ec4b486f.vsidx
+*.vsidx
